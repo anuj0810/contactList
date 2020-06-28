@@ -1,6 +1,6 @@
 # ContactList
 
-- *This is a simple contact list web app you can add read delete your contact.i use mongoDb to store data
+- This is a simple contact list web app you can add read delete your contact.i use mongoDb to store data
 
 -to use this app
 
